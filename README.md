@@ -1,3 +1,18 @@
+# 🚀 Telegram Old Links Converter Bot
+
+A powerful Telegram bot that **automatically converts old deep links** from **bot usernames** to a **permanent Heroku redirector URL**. 🎯
+
+## 🌟 Features
+✅ **Converts old Telegram bot deep links** to Heroku redirector links  
+✅ **Maintains the original text format** (Season labels, etc.)  
+✅ **Supports multiple bots with unique identifiers**  
+✅ **One-Click Deployment on Heroku** (No coding required!)  
+✅ **100% Free & Open Source** 🎉  
+
+---
+
+## 🎯 How It Works
+### **Before Conversion**
 
 ---
 
