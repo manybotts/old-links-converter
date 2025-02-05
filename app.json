@@ -1,7 +1,13 @@
 {
-  "name": "Telegram Link Converter Bot",
+  "name": "Telegram Old Links Converter Bot",
   "description": "A bot that converts old Telegram bot links to Heroku-based redirector URLs.",
   "repository": "https://github.com/manybotts/old-links-converter",
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID (Get it from my.telegram.org)",
@@ -23,10 +29,5 @@
       "description": "Unique bot identifier for the redirector (e.g., bot1, bot2)",
       "required": true
     }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/python"
-    }
-  ]
+  }
 }
