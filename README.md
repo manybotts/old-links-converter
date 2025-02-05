@@ -16,6 +16,10 @@ A powerful Telegram bot that **automatically converts old deep links** from **bo
 
 ---
 
+
+
+---
+
 ## 🚀 Deploy to Heroku (One Click)
 **Deploy your bot instantly on Heroku with one click:**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manybotts/old-links-converter)
@@ -25,4 +29,3 @@ A powerful Telegram bot that **automatically converts old deep links** from **bo
    ```bash
    git clone https://github.com/manybotts/old-links-converter.git
    cd old-links-converter
-   # old-links-converter
